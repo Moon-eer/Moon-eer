@@ -1,5 +1,5 @@
 ### Hi there 👋
-#ICMIIT Applied infotmatics student
+#### ICMIIT Applied infotmatics student
 Currently working on something cool..
 - 📫 How to reach me: mmurazbakhtin@stud.kpfu.ru
 
