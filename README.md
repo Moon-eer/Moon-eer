@@ -1,7 +1,7 @@
 ### Hi there 👋
-#### ICMIIT Applied infotmatics student
-Currently working on something cool..
-- 📫 How to reach me: mmurazbakhtin@stud.kpfu.ru
+#### _ICMIIT Applied infotmatics student_
+_Currently working on something cool.._
+- 📫 How to reach me: **mmurazbakhtin@stud.kpfu.ru**
 
 <!--
 **Moon-eer/Moon-eer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
